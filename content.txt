@@ -1,0 +1,61 @@
+<!-- info part one -->
+
+1. Web Design and Development
+1.1 Custom Web Design
+We create visually appealing, user-friendly websites tailored to your brand and audience. Our designs are responsive, ensuring they look great on any device.
+
+1.2 E-commerce Development
+We build robust e-commerce platforms that are easy to manage, fully secure, and provide a seamless shopping experience for your customers.
+
+1.3 Content Management Systems (CMS)
+We offer CMS solutions like WordPress, Joomla, and Drupal, allowing you to easily manage and update your website content.
+
+1.4 Website Maintenance and Support
+We provide ongoing website maintenance to ensure your site remains up-to-date and secure. Our support team is always ready to assist with any issues.
+
+2. Networking Services
+2.1 Network Design and Installation
+We design and install reliable, high-performance network infrastructures tailored to your business needs.
+
+2.2 Network Security
+We implement robust security measures to protect your network from threats and ensure your data stays safe.
+
+2.3 Network Troubleshooting and Repair
+We offer troubleshooting and repair services to quickly resolve any network issues and minimize downtime.
+
+3. Cybersecurity Services
+3.1 Security Assessment
+We conduct comprehensive security assessments to identify vulnerabilities in your systems and recommend solutions.
+
+3.2 Incident Response
+We provide rapid response to security incidents, minimizing damage and downtime.
+
+3.3 Security Training
+We offer training programs to educate your staff about cybersecurity best practices and how to avoid threats.
+
+3.4 Managed Security Services
+We provide ongoing management of your security systems to ensure you’re always protected from the latest threats.
+
+Remember, this is just a high-level overview. Each service could be expanded upon with more details based on the specific solutions you offer
+
+
+<!-- info part-one for the website -->
+
+ 
+<!-- info part two -->
+1. Web Design and Development
+HTML/CSS/JavaScript: These are the building blocks of web development. HTML is used for structure, CSS for styling, and JavaScript for functionality.
+React.js: A JavaScript library for building user interfaces, often used in single-page applications.
+Next.js: A React framework that enables server-side rendering and generating static websites for React based web applications.
+WordPress: A content management system (CMS) written in PHP. It’s often used for blog websites, but can be used for all kinds of websites.
+2. Networking Services
+Cisco technologies: Cisco provides a wide range of hardware and software solutions for networking.
+Wireshark: A network protocol analyzer that lets you capture and interactively browse the traffic running on a computer network.
+Nmap: A network scanner tool used for network discovery and security auditing.
+3. Cybersecurity Services
+Python: Often used in cybersecurity for writing scripts to automate tasks.
+Kali Linux: A Linux distribution used for penetration testing and digital forensics.
+Metasploit: A penetration testing framework that makes hacking simple. It’s used to test the defenses of your own network.
+Wireshark: Also used in cybersecurity for network analysis and troubleshooting
+
+<!-- info part two -->
